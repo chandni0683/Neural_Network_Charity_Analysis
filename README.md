@@ -24,7 +24,10 @@ The name and EIN columns are dropped as they are neither targets nor features.
 ### Compiling, Training, and Evaluating the Model
 
 How many neurons, layers, and activation functions did you select for your neural network model, and why?
-Two hidden layers were created 
+Two hidden layers were created. Both layers use the Relu as a activation function.
 
 Were you able to achieve the target model performance?
+The first model predicts following results:
+
+
 What steps did you take to try and increase model performance?
